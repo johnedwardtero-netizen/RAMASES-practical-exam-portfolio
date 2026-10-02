@@ -1,0 +1,7 @@
+1. What is backend development?
+The backend is the part of a website or app that runs on the server, not in the browser.
+2. Give 2 examples of backend frameworks.
+    Node.js with Express
+    Django
+3. What is an API?
+is an architectural middleware think of it as a bridge that connect one sytem to another
